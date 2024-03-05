@@ -27,8 +27,6 @@
 5                  ! DESLOCAx
 5                  ! DESLOCAy
 2135               ! Hagua
-2000               ! Flinha/Daplic
-1                  ! divtime
-
+4000               ! Flinha/Daplic
 
 !** Unidades : m, kN, rad, s                                               ***!
