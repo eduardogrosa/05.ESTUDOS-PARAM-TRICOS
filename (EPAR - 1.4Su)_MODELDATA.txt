@@ -1,7 +1,7 @@
 49                 ! SuMAX
 300                ! Beta
 0.495              ! NUsolo
-15.40              ! GAMMAsolo
+15.4               ! GAMMAsolo
 49                 ! CsoloMAX
 0                  ! ATRIsolo 
 0                  ! DILAsolo
@@ -10,8 +10,8 @@
 0                  ! Sescini
 0.21311            ! Dlinha
 2.1E8              ! Elinha
-0.30               ! NUlinha
-78.50              ! GAMMAlinha
+0.3                ! NUlinha
+78.5               ! GAMMAlinha
 0.57735            ! FRIC
 -1e10              ! FKN
 -1e04              ! FKT
@@ -27,8 +27,6 @@
 5                  ! DESLOCAx
 5                  ! DESLOCAy
 2135               ! Hagua
-2000               ! Flinha/Daplic
-1                  ! divtime
-
+4000               ! Flinha/Daplic
 
 !** Unidades : m, kN, rad, s                                               ***!
